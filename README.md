@@ -22,4 +22,5 @@ Proyek ini mengembangkan baju pintar berbasis Internet of Things (IoT) yang mamp
 
 ## Preview video Ads
 [![Tonton Video](https://img.icons8.com/ios-filled/50/000000/play--v1.png)](https://drive.google.com/file/d/1gqJj9rEZ-l6uaHup8LIpwP9fy1YcfI8i/preview)
+
 ## Komponen Yang Digunakan
